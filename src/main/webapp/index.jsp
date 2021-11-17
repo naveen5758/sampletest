@@ -123,7 +123,7 @@ body {
 <body>
 
 <div class="header">
-  <h1>Flipkart</h1>
+  <h1>Amazon</h1>
   <p>A <b>responsive</b> website created by me.</p>
 </div>
 
