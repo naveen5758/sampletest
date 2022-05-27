@@ -59,7 +59,7 @@ span.psw {
 </head>
 <body>
 
-<h2>Login Form</h2>
+<h2>Login Page</h2>
 
 <form action="/action_page.php" method="post">
   <div class="imgcontainer">
